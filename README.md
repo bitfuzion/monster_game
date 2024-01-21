@@ -1,7 +1,9 @@
 **Dragon** **Repeller** **-** **Simple** **RPG** **Game**
+
 Welcome to Dragon Repeller, a basic text-based RPG game created for beginners. Embark on a quest, defeat monsters, and ultimately face the mighty dragon to save the town.
 
 **How** **to** **Play**
+
 1. Explore Locations: Use the buttons to navigate through locations like the town square, store, and cave.
 2. Buy Health and Weapons: Spend gold to buy health or upgrade your weapon in the store.
 3. Battle Monsters: Engage in battles with monsters, each with its own level and health.
@@ -9,8 +11,10 @@ Welcome to Dragon Repeller, a basic text-based RPG game created for beginners. E
    
 **Installation**
 Clone the repository.
+
 git clone https://github.com/your-username/dragon-repeller.git
 cd dragon-repeller
+
 Open index.html in your web browser to start playing.
 
 **Game** **Control**
