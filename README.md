@@ -18,9 +18,11 @@ cd dragon-repeller
 Open index.html in your web browser to start playing.
 
 **Game** **Control**
+
 Button 1: Perform the action associated with the first button.
 Button 2: Perform the action associated with the second button.
 Button 3: Perform the action associated with the third button.
 
 **Contributing**
+
 Beginner-friendly contributions are encouraged! If you have ideas or improvements, feel free to open an issue or submit a pull request. 
