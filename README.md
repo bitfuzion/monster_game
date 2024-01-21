@@ -20,7 +20,9 @@ Open index.html in your web browser to start playing.
 **Game** **Control**
 
 Button 1: Perform the action associated with the first button.
+
 Button 2: Perform the action associated with the second button.
+
 Button 3: Perform the action associated with the third button.
 
 **Contributing**
